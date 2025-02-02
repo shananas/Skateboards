@@ -81,24 +81,6 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 2074
-    PositionX: 0
-    PositionY: -550
-    PositionZ: 870
-    RotationX: 0
-    RotationY: 0
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 0
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command:  0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
   EventActivators: []
   WalkPath: []
   ReturnParameters: []
@@ -169,9 +151,9 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: -150
+    PositionX: 0
     PositionY: -550
-    PositionZ: 770
+    PositionZ: 870
     RotationX: 0
     RotationY: 0
     RotationZ: 0
@@ -252,6 +234,24 @@
     ReactionCommand: 0
     SpawnDelay: 0
     Command: 0
+    SpawnRange: 0
+    Level: 0
+    Medal: 0
+  - ObjectId: 2074
+    PositionX: 8.742272257222794E-06
+    PositionY: 0.00010476569877937436
+    PositionZ: -899.9998779296875
+    RotationX: 0
+    RotationY: 3.1415927410125732
+    RotationZ: 0
+    SpawnType: 0
+    SpawnArgument: 0
+    Serial: 0
+    Argument1: 0
+    Argument2: 0
+    ReactionCommand: 0
+    SpawnDelay: 0
+    Command:  0
     SpawnRange: 0
     Level: 0
     Medal: 0

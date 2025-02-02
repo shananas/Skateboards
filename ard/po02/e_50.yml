@@ -46,11 +46,11 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: -692.4810791015625
-    PositionY: -0.00011050709872506559
-    PositionZ: -354.877197265625
+    PositionX: 282.6925048828125
+    PositionY: -2.3029210567474365
+    PositionZ: 13.331540107727051
     RotationX: 0
-    RotationY: 2.5668609142303467
+    RotationY: -1.1252626180648804
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -64,11 +64,11 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: 282.6925048828125
-    PositionY: -2.3029210567474365
-    PositionZ: 13.331540107727051
+    PositionX: -692.4810791015625
+    PositionY: -0.00011050709872506559
+    PositionZ: -354.877197265625
     RotationX: 0
-    RotationY: -1.1252626180648804
+    RotationY: 2.5668609142303467
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0

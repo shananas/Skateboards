@@ -172,9 +172,9 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: 3651.1298828125
-    PositionY: -1600
-    PositionZ: 149.09190368652344
+    PositionX: -2388.10302734375
+    PositionY: -1520
+    PositionZ: -1268.8800048828125
     RotationX: 0
     RotationY: -1.5707963705062866
     RotationZ: 0
@@ -208,9 +208,9 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: -2388.10302734375
-    PositionY: -1520
-    PositionZ: -1268.8800048828125
+    PositionX: 3651.1298828125
+    PositionY: -1600
+    PositionZ: 149.09190368652344
     RotationX: 0
     RotationY: -1.5707963705062866
     RotationZ: 0
