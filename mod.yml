@@ -3,6 +3,16 @@ originalAuthor: Shananas
 game: kh2
 description: sᴋᴀᴛᴇʙᴏᴀʀᴅs
 assets:
+#damage
+- method: binarc
+  name: 00battle.bin
+  source:
+  - name: atkp
+    method: listpatch
+    type: List
+    source:
+    - name: AtkpList.yml
+      type: atkp
 - method: binarc
   name: ard/us/al00.ard
   multi:
