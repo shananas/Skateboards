@@ -32,6 +32,24 @@
     PositionY: 1.9730610802071169E-05
     PositionZ: 650
     RotationX: 0
+    RotationY: -0.2617993950843811
+    RotationZ: 0
+    SpawnType: 0
+    SpawnArgument: 0
+    Serial: 0
+    Argument1: 0
+    Argument2: 0
+    ReactionCommand: 0
+    SpawnDelay: 0
+    Command:  0
+    SpawnRange: 0
+    Level: 0
+    Medal: 0
+  - ObjectId: 2074
+    PositionX: -249.44760131835938
+    PositionY: -1.3765080439043231E-05
+    PositionZ: 726.82427978515625
+    RotationX: 0
     RotationY: 0
     RotationZ: 0
     SpawnType: 0
@@ -96,6 +114,24 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
+  - ObjectId: 2074
+    PositionX: 814.49139404296875
+    PositionY: 24.449310302734375
+    PositionZ: -714.80267333984375
+    RotationX: 0
+    RotationY: -2.3561944961547852
+    RotationZ: 0
+    SpawnType: 0
+    SpawnArgument: 0
+    Serial: 0
+    Argument1: 0
+    Argument2: 0
+    ReactionCommand: 0
+    SpawnDelay: 0
+    Command:  0
+    SpawnRange: 0
+    Level: 0
+    Medal: 0
   EventActivators: []
   WalkPath: []
   ReturnParameters: []
@@ -129,24 +165,6 @@
     SpawnRange: 0
     Level: 0
     Medal: 0
-  - ObjectId: 2074
-    PositionX: 814.49139404296875
-    PositionY: 24.449310302734375
-    PositionZ: -714.80267333984375
-    RotationX: 0
-    RotationY: 0
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 0
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command:  0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
   EventActivators: []
   WalkPath: []
   ReturnParameters: []
@@ -177,24 +195,6 @@
     ReactionCommand: 0
     SpawnDelay: 0
     Command: 0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
-  - ObjectId: 2074
-    PositionX: -1791.22802734375
-    PositionY: -2.306143045425415
-    PositionZ: -397.51699829101562
-    RotationX: 0
-    RotationY: 0
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 0
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command:  0
     SpawnRange: 0
     Level: 0
     Medal: 0

@@ -68,7 +68,25 @@
     PositionY: 4.4321700443106238E-06
     PositionZ: -640.40399169921875
     RotationX: 0
-    RotationY: 0
+    RotationY: -3.1415927410125732
+    RotationZ: 0
+    SpawnType: 0
+    SpawnArgument: 0
+    Serial: 0
+    Argument1: 0
+    Argument2: 0
+    ReactionCommand: 0
+    SpawnDelay: 0
+    Command:  0
+    SpawnRange: 0
+    Level: 0
+    Medal: 0
+  - ObjectId: 2074
+    PositionX: 4.8317117691040039
+    PositionY: -4.7678518058091868E-06
+    PositionZ: -823.5447998046875
+    RotationX: 0
+    RotationY: 0.40873080492019653
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -313,11 +331,11 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: -12.637060165405273
+    PositionX: 56.849811553955078
     PositionY: -4.7678518058091868E-06
-    PositionZ: -776.693115234375
+    PositionZ: -692.0377197265625
     RotationX: 0
-    RotationY: 0
+    RotationY: 0.40873080492019653
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -331,11 +349,11 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: 95.389427185058594
+    PositionX: -105.29499816894531
     PositionY: -4.7678518058091868E-06
-    PositionZ: -759.3798828125
+    PositionZ: -697.3541259765625
     RotationX: 0
-    RotationY: 0
+    RotationY: 0.8281714916229248
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -349,11 +367,11 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: -99.247726440429688
+    PositionX: 199.44960021972656
     PositionY: -4.7678518058091868E-06
-    PositionZ: -838.6461181640625
+    PositionZ: -663.6121826171875
     RotationX: 0
-    RotationY: 0
+    RotationY: -0.04147406667470932
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -367,11 +385,11 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: 4.8317117691040039
+    PositionX: -144.414794921875
     PositionY: -4.7678518058091868E-06
-    PositionZ: -823.5447998046875
+    PositionZ: -725.364501953125
     RotationX: 0
-    RotationY: 0
+    RotationY: 0.4139685332775116
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -450,24 +468,6 @@
     ReactionCommand: 0
     SpawnDelay: 0
     Command: 0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
-  - ObjectId: 2074
-    PositionX: -182.04269409179688
-    PositionY: -4.8827350838109851E-05
-    PositionZ: -36.819068908691406
-    RotationX: 0
-    RotationY: 0
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 0
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command:  0
     SpawnRange: 0
     Level: 0
     Medal: 0

@@ -118,11 +118,11 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: 111.93689727783203
-    PositionY: -17.387580871582031
-    PositionZ: -453.78179931640625
+    PositionX: 368.68240356445312
+    PositionY: -7.7491002082824707
+    PositionZ: -520.75958251953125
     RotationX: 0
-    RotationY: 0
+    RotationY: 2.9670596122741699
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -136,11 +136,29 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: 368.68240356445312
-    PositionY: -7.7491002082824707
-    PositionZ: -520.75958251953125
+    PositionX: 111.93689727783203
+    PositionY: -17.387580871582031
+    PositionZ: -453.78179931640625
     RotationX: 0
-    RotationY: 0
+    RotationY: -1.2915436029434204
+    RotationZ: 0
+    SpawnType: 0
+    SpawnArgument: 0
+    Serial: 0
+    Argument1: 0
+    Argument2: 0
+    ReactionCommand: 0
+    SpawnDelay: 0
+    Command:  0
+    SpawnRange: 0
+    Level: 0
+    Medal: 0
+  - ObjectId: 2074
+    PositionX: 111.93689727783203
+    PositionY: -17.387580871582031
+    PositionZ: -453.78179931640625
+    RotationX: 0
+    RotationY: -1.2915436029434204
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -223,11 +241,11 @@
     Level: 0
     Medal: 0
   - ObjectId: 2074
-    PositionX: -121.31759643554688
-    PositionY: 67.148246765136719
-    PositionZ: 800.75982666015625
+    PositionX: -40.201698303222656
+    PositionY: 67.218559265136719
+    PositionZ: 916.60540771484375
     RotationX: 0
-    RotationY: 0
+    RotationY: 0.17453292012214661
     RotationZ: 0
     SpawnType: 0
     SpawnArgument: 0
@@ -306,24 +324,6 @@
     ReactionCommand: 0
     SpawnDelay: 0
     Command: 0
-    SpawnRange: 0
-    Level: 0
-    Medal: 0
-  - ObjectId: 2074
-    PositionX: 48.682411193847656
-    PositionY: -40.134410858154297
-    PositionZ: -690.75982666015625
-    RotationX: 0
-    RotationY: 0
-    RotationZ: 0
-    SpawnType: 0
-    SpawnArgument: 0
-    Serial: 0
-    Argument1: 0
-    Argument2: 0
-    ReactionCommand: 0
-    SpawnDelay: 0
-    Command:  0
     SpawnRange: 0
     Level: 0
     Medal: 0
