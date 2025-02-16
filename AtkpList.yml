@@ -2,7 +2,7 @@
   Id: 780
   Type: PierceArmor
   CriticalAdjust: 0
-  Power: 150
+  Power: 100
   Team: 1
   Element: 0
   EnemyReaction: 11
@@ -35,7 +35,7 @@
   Id: 781
   Type: PierceArmor
   CriticalAdjust: 0
-  Power: 150
+  Power: 100
   Team: 1
   Element: 0
   EnemyReaction: 11

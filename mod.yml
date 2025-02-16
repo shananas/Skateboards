@@ -3,6 +3,16 @@ originalAuthor: Shananas
 game: kh2
 description: sᴋᴀᴛᴇʙᴏᴀʀᴅs
 assets:
+#commands
+- name: 03system.bin
+  method: binarc  
+  source:
+  - method: listpatch
+    name: cmd
+    source:
+    - name: CmdList.yml
+      type: cmd
+    type: list
 #damage
 - method: binarc
   name: 00battle.bin
