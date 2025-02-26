@@ -2134,30 +2134,6 @@
   DisableForm: 0
   Group: 0
   Reserve: 0
-- Id: 327
-  Execute: 327
-  Argument: 327
-  SubMenu: -1
-  CmdIcon: Null
-  MessageId: 44840
-  Flags: Cursor, Land, Battle, Drive, Short, DisableLionSora, DisableLimitForm
-  Range: -1.0
-  Dir: 0.0
-  DirRange: -1.0
-  Cost: 0
-  CmdCamera: Null
-  Priority: 100
-  CmdReceiver: Player
-  Time: 0
-  Require: 0
-  Mark: 1
-  CmdAction: Idle
-  ReactionCount: 0
-  DistRange: 0
-  Score: 0
-  DisableForm: 0
-  Group: 0
-  Reserve: 0
 - Id: 328
   Execute: 328
   Argument: 328
